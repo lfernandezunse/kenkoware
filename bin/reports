@@ -1,0 +1,578 @@
+2021-05-21 16:05:56,132:INFO: Tabla inventario creada: DBcreation in D:\Documentos\Proyectos\Programacion\python\HermesProject\Hermes\BackEnd.py:34
+2021-05-21 16:05:56,192:INFO: Tabla ventas creada: DBcreation in D:\Documentos\Proyectos\Programacion\python\HermesProject\Hermes\BackEnd.py:34
+2021-05-21 16:05:56,267:INFO: Tabla compras creada: DBcreation in D:\Documentos\Proyectos\Programacion\python\HermesProject\Hermes\BackEnd.py:34
+2021-05-21 16:05:56,358:INFO: Tabla gastos creada: DBcreation in D:\Documentos\Proyectos\Programacion\python\HermesProject\Hermes\BackEnd.py:34
+2021-05-21 16:05:56,502:INFO: Se creó el archivo configs: initConfigs in D:\Documentos\Proyectos\Programacion\python\HermesProject\Hermes\Crypto.py:84
+2021-05-21 16:05:56,506:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Programacion/python/HermesProject/Hermes/Main.py:1
+2021-05-21 16:24:58,389:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Programacion/python/HermesProject/Hermes/Main.py:1
+2021-05-21 16:27:37,463:INFO: Funcionamento nominal: close in D:/Documentos/Proyectos/Programacion/python/HermesProject/Hermes/Main.py:215
+2021-05-24 18:41:28,390:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Programacion/python/HermesProject/Hermes/Main.py:1
+2021-05-24 18:41:41,045:INFO: Funcionamento nominal: close in D:/Documentos/Proyectos/Programacion/python/HermesProject/Hermes/Main.py:215
+2021-06-09 10:01:42,936:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:01:54,927:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:02:11,151:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:35:18,983:INFO: Tabla cubiertas creada: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\Hermes\Versión Juan Fernandez\Hermes\BackEnd.py:30
+2021-06-09 10:35:18,983:INFO: No se pudo crear la tabla ventas: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\Hermes\Versión Juan Fernandez\Hermes\BackEnd.py:30
+2021-06-09 10:35:18,984:INFO: No se pudo crear la tabla ventas: DBcreation in table ventas already exists in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\Hermes\Versión Juan Fernandez\Hermes\BackEnd.py:30
+2021-06-09 10:35:18,987:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:35:57,172:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:36:16,781:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:36:24,016:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:36:52,223:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:36:59,909:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:37:03,600:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:37:36,782:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:40:45,078:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:41:10,535:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:41:23,357:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:41:53,667:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:43:21,003:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:45:48,441:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:46:01,080:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:46:08,127:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:46:23,397:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:48:00,820:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:48:26,542:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:49:18,944:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:49:23,813:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:51:28,190:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:52:03,007:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:52:17,991:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:53:26,779:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:53:37,943:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:54:10,694:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:54:57,035:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:55:07,389:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:55:23,229:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:55:38,847:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:55:51,122:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:56:05,479:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:56:50,235:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:58:10,066:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 10:58:50,769:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:00:41,290:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:01:53,320:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:03:11,282:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:04:15,027:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:04:34,397:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:04:50,166:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:06:53,212:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:07:04,950:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:07:19,112:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:07:31,377:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:07:45,643:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:08:01,028:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:08:30,405:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:10:32,612:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:10:50,476:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:11:06,542:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:11:15,283:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:14:50,273:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:15:08,809:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:15:19,722:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:15:28,693:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:17:41,480:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:18:00,719:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:18:22,659:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:18:32,589:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:18:50,615:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:19:26,652:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:19:34,871:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:19:41,820:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/Hermes/Versión Juan Fernandez/Hermes/Main.py:1
+2021-06-09 11:24:04,553:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:24:39,821:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:24:48,107:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:25:23,477:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:25:50,528:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:25:58,400:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:26:13,216:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:27:07,407:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:27:17,925:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:27:49,394:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:28:01,393:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:28:20,249:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:28:27,663:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:29:00,390:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:30:37,549:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:30:54,130:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:31:06,059:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:31:15,577:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:31:25,050:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:31:40,200:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:31:56,166:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:32:13,602:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:35:40,006:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:36:03,988:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:36:22,438:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:36:46,596:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:38:22,428:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:38:53,315:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:39:14,831:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:40:29,678:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:41:09,125:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:41:25,365:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:41:51,472:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:42:28,312:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:42:53,090:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:43:09,464:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:43:46,890:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:43:57,663:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:44:18,748:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:45:56,220:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:48:50,559:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:49:30,122:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:49:41,566:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:49:48,731:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:50:14,347:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:50:40,617:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 11:56:25,564:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 12:02:13,202:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 12:03:01,215:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 12:05:09,819:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 12:10:16,682:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 12:10:25,976:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:55:34,835:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:56:35,926:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:56:43,746:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:57:00,929:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:57:33,898:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:57:48,615:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:58:19,896:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:58:42,589:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:59:08,527:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 16:59:46,356:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:00:09,136:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:00:36,051:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:01:42,351:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:02:38,444:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:03:04,053:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:03:31,198:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:03:52,999:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:05:04,238:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:10:12,958:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:10:49,931:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:10:55,049:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:11:09,532:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 17:11:17,026:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:10:08,989:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:10:31,606:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:11:03,996:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:11:21,943:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:11:44,250:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:12:46,230:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:13:00,506:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:19:43,868:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:20:27,594:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:20:42,984:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:21:39,652:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:22:06,428:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:22:24,668:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:22:34,330:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:37:13,487:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:39:07,530:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:39:29,866:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:41:16,696:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:41:36,172:INFO: No se pudo cargar la tabla inventario: cargarNuevo in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:277
+2021-06-09 18:41:36,172:INFO: No se pudo cargar la tabla inventario: cargarNuevo in table inventario has 8 columns but 7 values were supplied in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:277
+2021-06-09 18:42:00,005:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:42:44,004:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:43:18,041:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:43:25,779:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:43:32,871:INFO: No se pudo cargar la tabla inventario: cargarNuevo in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:277
+2021-06-09 18:43:32,871:INFO: No se pudo cargar la tabla inventario: cargarNuevo in table inventario has 8 columns but 7 values were supplied in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:277
+2021-06-09 18:54:13,587:INFO: Tabla cubiertas creada: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:30
+2021-06-09 18:54:13,686:INFO: Tabla ventas creada: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:30
+2021-06-09 18:54:14,017:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:54:29,707:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:54:41,540:INFO: Problema en la tabla inventario: sqGenericCount in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:206
+2021-06-09 18:54:41,541:INFO: Problema en la tabla inventario: sqGenericCount in no such table: inventario in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:206
+2021-06-09 18:54:49,603:INFO: Problema en la tabla inventario: sqGenericCount in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:206
+2021-06-09 18:54:49,603:INFO: Problema en la tabla inventario: sqGenericCount in no such table: inventario in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:206
+2021-06-09 18:57:11,621:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:58:02,079:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 18:59:07,533:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:00:14,261:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:00:34,539:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:01:30,625:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:02:12,772:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:05:03,279:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:06:18,160:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:06:40,958:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:06:56,583:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:14:30,836:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:15:15,210:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:15:42,270:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:16:07,345:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:16:34,591:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:16:42,549:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:17:08,309:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:17:24,089:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:17:44,419:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:17:53,221:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:18:04,096:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:18:19,859:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:18:34,280:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:18:58,958:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:19:12,526:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:19:29,415:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:20:01,080:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:23:22,617:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:23:40,153:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:23:52,444:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:24:24,778:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:24:54,218:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:25:23,792:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:34:14,343:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:34:37,378:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:35:17,432:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:43:32,552:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:43:46,261:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:44:13,462:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:44:33,055:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:47:01,513:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:53:52,027:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:58:06,855:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:58:56,794:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:59:04,158:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:59:16,669:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:59:44,391:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:59:51,488:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 19:59:56,323:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:00:40,898:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:00:56,325:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:01:02,917:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:01:10,989:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:01:22,133:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:01:29,749:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:04:48,022:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:05:07,983:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:05:16,281:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:05:28,475:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:06:24,571:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:07:33,819:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:08:41,792:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:11:14,052:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:11:38,896:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:12:12,377:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:12:53,573:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:13:02,792:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:13:30,410:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:15:19,257:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:16:08,966:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:17:57,794:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:18:23,413:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:19:10,596:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:19:24,788:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:19:40,493:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:19:52,294:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:20:08,594:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:20:49,027:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:23:00,101:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:23:10,908:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:23:20,630:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:23:30,793:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:27:16,673:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:33:21,671:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:33:36,912:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:33:48,328:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:36:55,631:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:37:09,215:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:37:31,240:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:38:16,633:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:40:16,353:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 20:40:29,111:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:06:38,576:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:07:26,171:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:07:46,844:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:08:11,543:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:08:30,440:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:08:35,864:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:08:50,420:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:09:30,663:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:09:53,036:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:09:59,154:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:10:18,818:INFO: Problema en la tabla cubiertas: sqGenericSelectOne in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:167
+2021-06-09 21:10:18,818:INFO: Problema en la tabla cubiertas: sqGenericSelectOne in near "<": syntax error in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:167
+2021-06-09 21:13:10,516:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:15:05,223:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:15:21,826:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:16:22,662:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:17:25,080:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:18:24,507:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:18:31,848:INFO: No se pudo cargar la tabla ventas: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-09 21:18:31,848:INFO: No se pudo cargar la tabla ventas: cargarNueva in table ventas has 6 columns but 7 values were supplied in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-09 21:20:29,097:INFO: Tabla cubiertas creada: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:30
+2021-06-09 21:20:29,208:INFO: Tabla ventas creada: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:30
+2021-06-09 21:20:29,507:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-09 21:21:12,302:INFO: Venta <built-in function id> cargada correctamente - 09/06/2021 - 21:20: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-09 21:21:36,817:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 14:40:05,053:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 14:41:33,783:INFO: Venta <built-in function id> cargada correctamente - 10/06/2021 - 14:40: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-10 16:30:41,705:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:33:51,411:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:38:02,954:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:39:18,331:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:41:03,052:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:41:25,667:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:41:48,397:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:43:17,987:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:43:39,131:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:44:28,326:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:44:43,605:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:45:11,218:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:45:44,989:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 16:46:13,651:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 18:48:43,970:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 18:48:53,471:INFO: Venta <built-in function id> cargada correctamente - 10/06/2021 - 18:48: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-10 18:49:25,355:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 18:49:31,257:INFO: Venta <built-in function id> cargada correctamente - 10/06/2021 - 18:49: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-10 18:51:17,708:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 18:54:20,747:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:02:35,743:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:02:58,728:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:03:30,675:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:03:40,092:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:04:35,381:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:44:28,782:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:44:52,197:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:45:35,095:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:45:51,694:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:46:11,870:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:46:55,625:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:47:05,872:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:48:43,202:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:49:35,295:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:51:00,657:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:54:14,483:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 19:54:25,259:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:00:45,636:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:01:09,368:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:01:21,829:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:01:45,562:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:02:11,920:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:02:26,099:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:02:44,587:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:02:49,826:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:03:08,828:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:03:51,759:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:05:23,915:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:06:15,273:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:06:23,680:INFO: Tabla cubiertas creada: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:30
+2021-06-10 20:06:23,781:INFO: Tabla ventas creada: DBcreation in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:30
+2021-06-10 20:06:24,076:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:06:51,366:INFO: Venta <built-in function id> cargada correctamente - 10/06/2021 - 20:06: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-10 20:07:24,273:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:07:28,257:INFO: Venta <built-in function id> cargada correctamente - 10/06/2021 - 20:07: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:310
+2021-06-10 20:07:47,274:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:11:22,443:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:12:01,785:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:12:38,990:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:12:53,526:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:13:06,585:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:16:04,402:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:16:15,537:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:17:05,079:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:17:21,043:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:17:54,511:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:18:04,473:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:18:24,494:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:19:00,948:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:20:02,362:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:20:11,355:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:20:58,030:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:22:00,196:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:22:43,221:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:22:49,097:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:23:31,843:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:24:46,058:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-10 20:24:48,690:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 10:54:15,318:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 10:54:31,846:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 10:56:59,902:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:25:11,707:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:25:55,339:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:27:01,451:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:27:19,943:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:27:52,291:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:28:03,705:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:28:45,980:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:29:26,637:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:30:00,771:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:30:12,395:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:30:26,591:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:32:10,741:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:32:38,691:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:34:33,129:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:34:55,335:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:35:01,282:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:35:29,159:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:37:03,851:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:37:33,683:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 11:37: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 11:37:55,859:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:38:48,457:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:39:02,176:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:41:49,195:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:42:26,812:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:42:36,811:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:42:52,384:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:42:58,628:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:43:17,107:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:43:26,856:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:44:15,836:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:44:41,328:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:45:06,251:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:45:32,602:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:45:45,606:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:45:51,610:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:46:23,262:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:46:34,761:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:47:09,112:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:47:35,632:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:48:23,969:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:48:41,481:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:48:53,874:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:49:06,159:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:49:31,179:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:49:40,194:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:50:23,858:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:50:41,302:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:51:00,127:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:51:19,003:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:51:40,768:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:51:55,038:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 11:59:58,827:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:07:49,144:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:08:01,299:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:09:48,692:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:10:00,895:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:10:49,465:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:11:25,396:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:11:47,534:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:11:56,900:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 12:11: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 12:12:27,819:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 12:11: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 12:20:21,356:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:26:11,818:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:26:11,831:INFO: Problema en la tabla inventario: sqGenericSelect in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:64
+2021-06-11 12:26:11,831:INFO: Problema en la tabla inventario: sqGenericSelect in no such table: inventario in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:64
+2021-06-11 12:26:26,715:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:29:10,550:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:29:31,362:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:29:42,970:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:30:18,968:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:30:35,846:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:31:10,000:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:32:37,277:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:32:47,631:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:33:15,463:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:33:43,143:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:33:54,121:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:34:20,891:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:34:27,039:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:34:54,333:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:35:24,094:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:35:44,715:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:36:16,498:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:36:56,494:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:37:18,244:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:39:20,460:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:39:47,068:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:40:09,570:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:40:43,517:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:40:57,071:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:41:04,336:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:41:17,826:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:41:31,084:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:41:43,380:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:41:55,238:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:42:00,158:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:42:25,253:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:42:38,328:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:42:45,280:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:43:10,963:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:43:19,540:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:43:29,073:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:43:47,306:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:43:51,932:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:44:13,021:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:44:40,015:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:44:44,790:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:44:57,159:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:45:07,412:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:45:16,707:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:45:46,348:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:45:54,170:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:46:07,451:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:46:15,488:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:46:23,034:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:46:47,136:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:46:54,943:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:47:01,813:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:47:12,208:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:47:22,210:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:47:34,356:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:47:48,233:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:48:07,295:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:48:16,088:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:48:23,563:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:48:28,397:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:49:28,000:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:49:33,933:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:49:50,589:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 12:49:57,446:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 13:20:01,216:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 13:31:17,943:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:50:39,655:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:50:44,595:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:50: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:51:34,564:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:51:38,449:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:51: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:51:53,264:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:51:55,871:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:51: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:52:49,796:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:52:53,073:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:52: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:53:01,570:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:52: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:53:11,602:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:53:18,672:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:54:45,895:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:54:49,211:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:54: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:54:55,309:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:55:56,450:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:55:59,286:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:55: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:56:14,308:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:56:16,993:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:56: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:56:32,556:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:56:35,175:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:56: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:56:47,428:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:56:49,454:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:56:52,647:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:56: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:57:09,531:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:57:15,552:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:57: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:57:46,693:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:57:58,890:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:57: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:58:50,881:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 14:58:56,000:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 14:58: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 14:59:34,586:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:00:03,274:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:00:13,723:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:00:32,095:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:00:37,718:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:01:30,261:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:02:20,314:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:02:54,947:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:02:59,804:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:03:04,820:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:04:05,927:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:04:13,748:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:04:19,619:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:04:36,359:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:04:52,528:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:05:20,898:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:05:39,197:INFO: Venta <built-in function id> cargada correctamente - 11/06/2021 - 15:05: cargarNueva in D:\Documentos\Proyectos\Turing tecnologias\Proyectos\Software\KenkoWare\BackEnd.py:311
+2021-06-11 15:05:50,990:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:06:08,593:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:06:35,583:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:06:53,081:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:07:29,339:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:37:49,937:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-11 15:50:48,028:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-26 11:05:41,375:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
+2021-06-26 11:07:36,274:INFO:  > Programa iniciado < : <module> in D:/Documentos/Proyectos/Turing tecnologias/Proyectos/Software/KenkoWare/Main.py:1
