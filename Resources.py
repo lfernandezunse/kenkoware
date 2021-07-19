@@ -11,14 +11,15 @@ import os, pathlib, datetime, re
 import tkinter as tk
 
 if __name__ != '__main__':
-
     # Gestion de archivos
     folderName = 'bin'
     folderPath = pathlib.Path(f'./{folderName}')
     dataBaseFileName = 'dataBase'
     reportsFileName = 'reports'
+    staticFileName = 'static'
     dataBaseFile = f'{folderPath}/{dataBaseFileName}'
     reportsFile = f'{folderPath}/{reportsFileName}'
+    staticFile = f'{folderPath}/{staticFileName}'
 
     # Creacion de carpeta de archivos
     try:

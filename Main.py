@@ -17,6 +17,7 @@ El sistema tiene un control de licencia que controla si el usuario tiene el sist
 
 from BackEnd import *
 from Resources import *
+from Static import *
 from Logs import autolog
 from tkinter import ttk
 from tkcalendar import Calendar
@@ -81,12 +82,19 @@ def init():
         cubInsertAll()
         _capital = 0
         _cubs = sqGenericSelect('cubiertas')
+        _saldoTotal = 0
+        _ventas = sqGenericSelect('ventas')
         for item in _cubs:
             _stock = item[4]
             if _stock > 0:
                 _costo = item[2]
                 _capital += (_costo * _stock)
+        for item in _ventas:
+            _saldo = item[5]
+            if _saldo > 0:
+                _saldoTotal += _saldo
         capitalVar.set(f'${"%.2f" % _capital}')
+        deudaVar.set(f'{"%.2f" % _saldoTotal}')
 
     def compraBind(event=None):
         compra = tk.Tk()
@@ -424,9 +432,14 @@ def init():
                 pago = pagoEntry.get()
                 if fieldsOk(pago):
                     pago = float(pago)
+                    _ganancia = float(statics()['ganancia'])
+                    _ganancia += pago
+                    staticData['ganancia'] = _ganancia
+                    write(staticFile,staticData)
                     nuevoSaldo = float(saldo - pago)
                     sqUpdateOne('ventas', 'saldo', nuevoSaldo, 'id', _id)
                     updNotif(f"Se registro un pago de {_venta[3]} por ${pago} ")
+                    updNotif(f"Se actualizó la ganancia")
                     updateAll()
                     venta.destroy()
 
